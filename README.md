@@ -1,2 +1,3 @@
-# MisguidedSouls-DnD
-The first campaign I created in Hebrew and English 
+# Misguided Souls - A D&D Campaign.
+* Languages: Hebrew and English 
+* Number of players: 3-8
